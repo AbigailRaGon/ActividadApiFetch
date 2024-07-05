@@ -1,0 +1,20 @@
+#carta-espera{
+    background-color: gray;
+    text-align: center;
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+    margin: auto;
+    color:aliceblue;
+    padding: 5%;
+}
+
+#navStyle{
+    background-color: gray;
+}
+
+#image{
+    border-radius: 25px;
+    width:150px;
+    height: 150px;
+}
